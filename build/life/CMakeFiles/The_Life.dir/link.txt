@@ -1,0 +1,2 @@
+/usr/bin/ar qc libThe_Life.a CMakeFiles/The_Life.dir/the_life.c.o
+/usr/bin/ranlib libThe_Life.a

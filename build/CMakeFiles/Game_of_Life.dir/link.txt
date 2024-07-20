@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Game_of_Life.dir/simulate.c.o -o Game_of_Life  life/libThe_Life.a 

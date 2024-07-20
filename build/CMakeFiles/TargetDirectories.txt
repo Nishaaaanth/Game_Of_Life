@@ -1,0 +1,6 @@
+/home/nish/Programming/Projects/Roc8/GOL/build/CMakeFiles/Game_of_Life.dir
+/home/nish/Programming/Projects/Roc8/GOL/build/CMakeFiles/edit_cache.dir
+/home/nish/Programming/Projects/Roc8/GOL/build/CMakeFiles/rebuild_cache.dir
+/home/nish/Programming/Projects/Roc8/GOL/build/life/CMakeFiles/The_Life.dir
+/home/nish/Programming/Projects/Roc8/GOL/build/life/CMakeFiles/edit_cache.dir
+/home/nish/Programming/Projects/Roc8/GOL/build/life/CMakeFiles/rebuild_cache.dir
