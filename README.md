@@ -1,6 +1,11 @@
 # Conways Game of Life
 
-![Game of Life](./public/Game_of_Life.png){width="500" height="500" style="display: block; margin: 0 auto"}
+<img src="./public/Game_of_Life.png"
+    alt="Game of Life"
+    width="500"
+    height="500"
+    style="display: block; margin: 0 auto"
+/>
 
 ## Pre-requisites
 * ```cmake```
@@ -16,5 +21,9 @@ cmake --build .
 ./Game_of_Life
 ```
 
-![Gameplay](./public/Game_of_Life.gif){width="500" height="500" style="display: block; margin: 0 auto"}
-
+<img src="./public/Game_of_Life.gif"
+    alt="Game of Life"
+    width="500"
+    height="500"
+    style="display: block; margin: 0 auto"
+/>
